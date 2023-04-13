@@ -11,7 +11,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
   - Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
   - Create a legend and popups to provide additional information about the earthquake with its associated marker.
 
-### Part 2: Gather and Plot More Data (Optional with no extra points earning)
+### Part 2: Gather and Plot More Data (Optional)
 Illustrate the relationship between tectonic plates and seismic activity. Pull in this dataset and visualize it alongside your original data
   - Plot the tectonic plates dataset on the map in addition to the earthquakes.
   - Add other base maps to choose from.
